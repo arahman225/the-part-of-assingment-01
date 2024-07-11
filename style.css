@@ -1,0 +1,88 @@
+
+/* why development style start */
+
+/* .content{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.bg-color{
+    background: rgba(13, 19, 33, 0.02);
+   
+}
+
+
+.section-title{
+    text-align: center;
+    padding: 35px 0px;
+}
+
+.display-flex{
+    display: flex;
+    padding: 25px 97px 25px 97px;
+    
+}
+
+.flex-col{
+    background-color: #ffffff;
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 16px;
+}
+
+
+.text-color{
+    color: black;
+    
+}
+
+
+.section-padding{
+    padding: 65px 40px;
+} */
+
+/* why development style end */
+
+.next-target{
+    padding: 35px 0px;
+    text-align: center;
+}
+
+
+
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col-service{
+    
+    padding: 15px;
+}
+
+.col-service-box{
+    padding: 50px 40px 50px;
+    background-color: rgb(9, 9, 151);
+    color: white;
+    display: flex;
+}
+.col-service-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.col-service-text{
+    padding-left: 25px;
+}
+
+.col-service-box i{
+  font-size: 45px;
+}
